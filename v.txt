@@ -1,0 +1,29 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1,0,0,0),
+    prodvers=(1,0,0,0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0,0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904b0',
+        [StringStruct(u'CompanyName',u'By SaHaL1NeZ'),
+         StringStruct(u'FileDescription',u'RuStore Simple APK Downloader'),
+         StringStruct(u'ProductName',u'RuStoreSAD'),
+         StringStruct(u'ProductVersion',u'1.0.0.0'),
+         StringStruct(u'FileVersion',u'1.0.0.0'),
+         StringStruct(u'InternalName', u'RuStoreSAD'),
+         StringStruct(u'OriginalFilename',u'RuStoreSAD.exe')]
+      )
+      ]
+    ),
+    VarFileInfo([VarStruct(u'Translation', [0x0409,1200])])
+  ]
+)
